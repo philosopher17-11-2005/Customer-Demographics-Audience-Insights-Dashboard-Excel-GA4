@@ -3,6 +3,14 @@
 ## Project Overview
 This dashboard analyzes customer demographics and audience insights using Google Analytics 4 (GA4) data in Excel.
 
+## Business Problem
+The objective of this project is to analyze customer demographics and audience behavior using Google Analytics 4 (GA4) data. The dashboard helps identify key audience segments, user engagement patterns, and opportunities for improving marketing performance and decision-making.
+
+## Dataset Information
+- Source: Google Analytics 4 (GA4)
+- Data Type: Customer Demographics and Audience Insights
+- Tool Used: Microsoft Excel
+  
 ## Objectives
 - Analyze audience demographics
 - Identify gender distribution
